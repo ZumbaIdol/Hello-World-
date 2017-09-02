@@ -1,2 +1,3 @@
 # Hello-World-
-Practice repository for Github
+A practice repository for Github.
+I am a programmer, music specialist, Zumba instructor, and comic fanatic!
